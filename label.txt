@@ -1,0 +1,4 @@
+	label
+0	car
+1	parking lot
+2	p
